@@ -1,4 +1,4 @@
-# SC DEFACE VERSI 1.0
+# SC DEFACE VERSI 2.0
 Versi kedua, dengan tampilan animasi text blinker, dibuat hanya untuk kalian para "Defacer". Tenang kawan, sudah saya bikin responsive.
  :) kamu tinggal pakai saja
 
