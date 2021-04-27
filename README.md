@@ -6,7 +6,7 @@ Versi kedua, dengan tampilan animasi text blinker, dibuat hanya untuk kalian par
 <a href="https://itsmelief.github.io/scdeface-1/">https://itsmelief.github.io/scdeface-2/</a>
 
 # ScreenShoot
- <img src="https://d.top4top.io/p_1939l4awf1.png">
+ <img src="https://c.top4top.io/p_19433256e1.png">
  
 # Let's connect with me!
 <p>
