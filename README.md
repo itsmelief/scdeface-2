@@ -1,9 +1,10 @@
 # SC DEFACE VERSI 2.0
-Versi kedua, dengan tampilan animasi text blinker, dibuat hanya untuk kalian para "Defacer". Tenang kawan, sudah saya bikin responsive.
+Versi kedua, dengan tampilan animated text changes color/teks animasi berubah warna menggunakan javascript. Dibuat hanya untuk kalian para "Defacer", jadikan sebuah refrensi. Tenang kawan, sudah saya bikin responsive.
  :) kamu tinggal pakai saja
+ #10hours10project
 
 # Demo Site
-<a href="https://itsmelief.github.io/scdeface-1/">https://itsmelief.github.io/scdeface-2/</a>
+<a href="https://itsmelief.github.io/scdeface-2/">https://itsmelief.github.io/scdeface-2/</a>
 
 # ScreenShoot
  <img src="https://c.top4top.io/p_19433256e1.png">
